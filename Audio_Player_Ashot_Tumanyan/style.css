@@ -113,7 +113,7 @@ body {
     align-items: center;
     display: flex;
 }
-.CurrentTime {
+.currentTime {
     width: 50%;
     height: 100%;
     margin-left: 35px ;
